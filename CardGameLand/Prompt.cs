@@ -16,13 +16,13 @@ namespace CardGameLand
         {
             Form prompt = new Form()
             {
-                Width = 200,
+                Width = 250,
                 Height = 150,
                 FormBorderStyle = FormBorderStyle.FixedDialog,
                 Text = caption,
                 StartPosition = FormStartPosition.CenterScreen
             };
-            Label textLabel = new Label() { Left = 25, Top = 20, Text = text };
+            Label textLabel = new Label() { Left = 25, Top = 20,Width = 150 ,Text = text };
             TextBox textBox = new TextBox() { Left = 25, Top = 50, Width = 125 };
             Button confirmation = new Button() { Text = "Ok", Left = 100, Width = 50, Top = 75, DialogResult = DialogResult.OK };
             confirmation.Click += (sender, e) => { prompt.Close(); };
