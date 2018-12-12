@@ -71,7 +71,16 @@ namespace CardGameLand
                         int command = br.ReadInt32();
                         if (command == Command.ReMakeNickName)
                         {
-                            textBoxNickName.Text = Prompt.ShowDialog("닉네임을 다시 설정해주세요.", "닉네임 입력");
+                            string overlappedNickName = textBoxNickName.Text;
+
+                            while (true)
+                            {
+                                textBoxNickName.Text = Prompt.ShowDialog("닉네임을 입력해주세요.", "닉네임 재설정");
+                                if (!textBoxNickName.Text.Equals(overlappedNickName) && textBoxNickName.Text!="")
+                                {
+                                    break;
+                                }
+                            }
                             bw.Write(textBoxNickName.Text);
                         }
                         else
