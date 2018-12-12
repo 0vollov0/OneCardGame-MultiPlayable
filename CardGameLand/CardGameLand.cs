@@ -42,7 +42,7 @@ namespace CardGameLand
 
                 if (host.AddressList[i].AddressFamily == AddressFamily.InterNetwork)
                 {
-                    //labelmyIP.Text = host.AddressList[i].ToString();
+                    labelmyIP.Text = host.AddressList[i].ToString();
                     break;
                 }
             }
