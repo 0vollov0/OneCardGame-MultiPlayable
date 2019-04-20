@@ -10,3 +10,15 @@ C:\Users\OvollovO\source\repos\CardGameLand\CardGameLand\obj\Debug\CardGameLand.
 C:\Users\OvollovO\source\repos\CardGameLand\CardGameLand\obj\Debug\CardGameLand.exe
 C:\Users\OvollovO\source\repos\CardGameLand\CardGameLand\obj\Debug\CardGameLand.pdb
 C:\Users\OvollovO\source\repos\CardGameLand\CardGameLand\obj\Debug\CardGameLand.OneCard.resources
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\bin\Debug\CardGameLand.exe.config
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\bin\Debug\CardGameLand.exe
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\bin\Debug\CardGameLand.pdb
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.csprojAssemblyReference.cache
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.CardGameLand.resources
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.CreateRoom.resources
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.OneCard.resources
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.Properties.Resources.resources
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.csproj.GenerateResource.cache
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.csproj.CoreCompileInputs.cache
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.exe
+C:\Users\OvollovO\Documents\GitHub\OneCard-MultiPlayer-\CardGameLand\obj\Debug\CardGameLand.pdb

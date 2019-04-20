@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardGameLand.CardGameLand">
+    <Position X="0.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAECBAQBAAAECAAAACIHwDAAEQhAAAEAAAAQA=</HashCode>
+      <FileName>CardGameLand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.ClientDeck">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.ClientReceiver">
+    <Position X="19" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAAAQgAAAIAAAwCAAAAIAABAAEAAAA=</HashCode>
+      <FileName>ClientReceiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.ClientSender">
+    <Position X="17" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ClientSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.Command">
+    <Position X="14.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAIghAgEPIQAAAAIAAABBAAgEgAAAIAAAQ=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.CreateRoom">
+    <Position X="3.25" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACACABAAAEiAAIAiAARQEAAADaEAABgAAAA=</HashCode>
+      <FileName>CreateRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.Deck">
+    <Position X="1.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.OneCard">
+    <Position X="6.75" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIBCEJAIACZPARCgkA2QDgCqANAoIXkyrACiEANwQAQ=</HashCode>
+      <FileName>OneCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.PlayerInfo">
+    <Position X="13.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAgAAgAAAAAAAAIAAAAEAIAAAwAAAAQA=</HashCode>
+      <FileName>PlayerInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.PlayerTurn">
+    <Position X="16" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAICAABABAAAAAgAAAAAAAAQAgAAAQAAAA=</HashCode>
+      <FileName>PlayerTurn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.Program">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.Prompt">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Prompt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.RoomInfo">
+    <Position X="11" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAEAAAABAAAAAAACAAACAgAAAgA=</HashCode>
+      <FileName>RoomInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.ServerCommand">
+    <Position X="12.25" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQAAAAgwAAADIAAAAkAAQiNEAAZAwKIAAhAAU=</HashCode>
+      <FileName>ServerCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.ServerDeck">
+    <Position X="2.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCCAAAAAgAAEAAAAQgMEIAAAEAAAAAAAAAIEAA=</HashCode>
+      <FileName>ServerDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.ServerReceiver">
+    <Position X="10.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAACAAAAAAAIgIAwCAAAAhAAAAAAAAAA=</HashCode>
+      <FileName>ServerReceiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGameLand.Properties.Resources" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRABDAf0CAQQAEAAABEAAEA0EBAAgQgTAQCAAAz7A=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
