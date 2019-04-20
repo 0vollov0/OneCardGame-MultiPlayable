@@ -2,6 +2,10 @@
 
 C# .Net 으로 MutilThread Socket 을 이용 한 원카드(멀티)게임입니다.
 
+## 실행 파일
+
+<https://github.com/psk876/OneCard-MultiPlayer-/blob/master/CardGameLand/bin/Debug/CardGameLand.exe>
+
 ## 영상
 
 [![video](https://i.vimeocdn.com/video/776961215_640x360.jpg)](https://vimeo.com/331539351)
