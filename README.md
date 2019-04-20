@@ -73,3 +73,56 @@ C# .Net 으로 MutilThread Socket 을 이용 한 원카드(멀티)게임입니�
 소지하고 있는 카드 수가 7장 초과시
 
 # 설명
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_01.jpg)
+
+메인 폼 입니다.
+
+자신이 방을 만들 것인지 참여할 것인지 정해야 합니다.
+
+방을 만든다면 방을 만들고 참가하려고하는 사람들에게 IP 주소를 알려줘야 합니다.
+
+상단에 자신의 IP를 알려줍니다.
+
+이미지에서는 IP를 따로 설정하진 않았습니다
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_02.jpg)
+
+데이터베이스를 이용하지 않기 때문에 닉네임 중복이 발생할 수가 있습니다.
+
+참가 시 중복된 닉네임이 있을경우 재설정해야합니다.
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_03.jpg)
+
+방만들기 폼입니다.
+
+위와 같이 설정하고 방을 만들어줍니다.
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_04.jpg)
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_05.jpg)
+
+호스트(Server)의 경우에만 시작 버튼이 활성화되어있습니다.
+
+시작 버튼이 활성화되거나 최대인원에 도달했을 경우에는 더는 참가자를 받지 않습니다.
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_06.jpg)
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_07.jpg)
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_08.jpg)
+
+숫자 카드 7을 낼 경우에는 총 4단계로 물어보고 하나를 선택합니다.
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_09.jpg)
+
+플레이어 중 한 명이 카드 한 장이 남게 되면 원 카드 버튼이 임의의 위치에 생성됩니다.
+
+카드 한 장이 남은 플레이어 외의 다른 플레이어가 버튼을 누르면 카드 한 장이 남은 플레이어가 한장 드로우 합니다.
+
+![ImplementationImage](ReadmeImage/ImplementationImage/Imp_10.jpg)
+
+플레이어 카드가 7장 이상이 되면 죽게 됩니다.
+
+모든 플레이어가 죽거나 나가게 되면은 남은 플레이어가 승리하게 됩니다.
+
