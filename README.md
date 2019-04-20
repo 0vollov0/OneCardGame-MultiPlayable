@@ -126,3 +126,34 @@ C# .Net 으로 MutilThread Socket 을 이용 한 원카드(멀티)게임입니�
 
 모든 플레이어가 죽거나 나가게 되면은 남은 플레이어가 승리하게 됩니다.
 
+# Class Diagram
+
+## Deck
+
+![Deck](ReadmeImage/ClassDiagram/Deck.png)
+
+## Server
+
+![Server](ReadmeImage/ClassDiagram/Server.png)
+
+## Client
+
+![Client](ReadmeImage/ClassDiagram/Client.png)
+
+## Command
+
+![Command](ReadmeImage/ClassDiagram/Command.png)
+
+## Player
+
+![Player](ReadmeImage/ClassDiagram/Player.png)
+
+## RoomInfo
+
+![RoomInfo](ReadmeImage/ClassDiagram/RoomInfo.png)
+
+## Forms
+
+![Forms](ReadmeImage/ClassDiagram/Forms.png)
+
+
