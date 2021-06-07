@@ -4,7 +4,7 @@ C# .Net 으로 MutilThread Socket 을 이용 한 원카드(멀티)게임입니�
 
 ## 실행 파일
 
-<https://github.com/psk876/OneCard-MultiPlayer-/raw/master/CardGameLand/bin/Debug/CardGameLand.exe>
+<del>[Download Link](https://github.com/psk876/OneCard-MultiPlayer-/raw/master/CardGameLand/bin/Debug/CardGameLand.exe)</del>
 
 ## 영상
 
