@@ -1,4 +1,4 @@
-# OneCard-MultiPlayer-
+# OneCardGame-MultiPlayable
 
 C# .Net 으로 MutilThread Socket 을 이용 한 원카드(멀티)게임입니다.
 
