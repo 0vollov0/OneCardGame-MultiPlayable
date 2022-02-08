@@ -8,7 +8,7 @@ C# .Net 으로 MutilThread Socket 을 이용 한 원카드(멀티)게임입니�
 
 ## 영상
 
-[![video](https://i.vimeocdn.com/video/776961215_640x360.jpg)](https://vimeo.com/331539351)
+<!-- [![video](https://i.vimeocdn.com/video/776961215_640x360.jpg)](https://vimeo.com/331539351) -->
 
 # 게임 규칙
 
